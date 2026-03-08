@@ -30,7 +30,7 @@ Welcome!
   I am fortunate to be advised by 
   Professor <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Izak Duenyas</a>
   and
-  Professor <a href="https://jolineuichanco.github.io" target="_blank">Joline Uichanco</a>.
+  <a href="https://jolineuichanco.github.io" target="_blank">Joline Uichanco</a>.
 </p>
 
 <p>
