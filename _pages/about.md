@@ -35,7 +35,7 @@ Welcome!
 
 <p>
   I am broadly interested in operations management questions inspired by real-world observations. My recent research explores
-  the pivotal role of <strong><em>product quality</em></strong> in shaping operational decision-making across the product lifecycle,
+  the pivotal role of <strong>product quality</strong> in shaping operational decision-making across the product lifecycle,
   from customer feedback-driven innovation in the early stages to e-commerce fulfillment in the later stages.
   I mainly employ analytical methodologies such as dynamic programming and game theory to address these challenges.
 </p>
