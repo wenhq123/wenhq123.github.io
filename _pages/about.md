@@ -28,7 +28,7 @@ Welcome!
 <p>
   I am <strong>Hanqi</strong> (pronounced Hahn-chee), a Ph.D. candidate at the Stephen M. Ross School of Business, University of Michigan.
   I am fortunate to be advised by 
-  Professor <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Izak Duenyas</a>
+  Professors <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Izak Duenyas</a>
   and
   <a href="https://jolineuichanco.github.io" target="_blank">Joline Uichanco</a>.
 </p>
