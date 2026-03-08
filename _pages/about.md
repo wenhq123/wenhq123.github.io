@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>Ross School of Business, University of Michigan </a>. hanqiwen@umich.edu
 profile:
   align: right
   image: prof_pic.jpg
