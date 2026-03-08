@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://michiganross.umich.edu/phd'>Ph.D. Candidate in Technology and Operations <br> Stephen M. Ross School of Business, University of Michigan </a> 
+subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-of-study/technology-operations">Technology and Operations</a><br>Stephen M. Ross School of Business, University of Michigan
 profile:
   align: right
   image: prof_pic.jpg
