@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-of-study/technology-operations">Technology and Operations</a><br>Stephen M. Ross School of Business, University of Michigan
+subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-of-study/technology-operations">Technology and Operations</a><br><a href="https://michiganross.umich.edu/">Stephen M. Ross School of Business, University of Michigan
 profile:
   align: right
   image: prof_pic.jpg
