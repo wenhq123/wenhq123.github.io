@@ -6,9 +6,9 @@ subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-o
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>hanqiwen@umich.edu</p>
+    <p>E-mail: hanqiwen@umich.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
