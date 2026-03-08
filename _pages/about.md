@@ -27,10 +27,10 @@ Welcome!
 
 <p>
   I am <strong>Hanqi</strong> (pronounced <em>Hahn-chee</em>) <strong>Wen</strong>, a Ph.D. candidate at the Stephen M. Ross School of Business, University of Michigan.
-  I am fortunate to be advised by
-  <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Professor Izak Duenyas</a>
+  I am fortunate to be advised by 
+  Professor <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Izak Duenyas</a>
   and
-  <a href="https://jolineuichanco.github.io" target="_blank">Professor Joline Uichanco</a>.
+  Professor <a href="https://jolineuichanco.github.io" target="_blank">Joline Uichanco</a>.
 </p>
 
 <p>
