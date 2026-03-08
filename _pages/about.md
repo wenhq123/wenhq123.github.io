@@ -26,7 +26,7 @@ latest_posts:
 Welcome!
 
 <p>
-  I am <strong>Hanqi</strong> (pronounced *Hahn-chee*) </strong>Wen</strong>, a Ph.D. candidate at the Stephen M. Ross School of Business, University of Michigan.
+  I am <strong>Hanqi</strong> (pronounced <em>Hahn-chee</em>) <strong>Wen</strong>, a Ph.D. candidate at the Stephen M. Ross School of Business, University of Michigan.
   I am fortunate to be advised by
   <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Professor Izak Duenyas</a>
   and
