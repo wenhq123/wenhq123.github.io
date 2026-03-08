@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-of-study/technology-operations">Technology and Operations</a><br><a href="https://michiganross.umich.edu/">Stephen M. Ross School of Business, University of Michigan
+subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-of-study/technology-operations">Technology and Operations</a><br><a href="https://michiganross.umich.edu/">Stephen M. Ross School of Business</a>, University of Michigan
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,7 +26,7 @@ latest_posts:
 Welcome!
 
 <p>
-  I am <strong>Hanqi (pronounced Hahn-chee) Wen</strong>, a Ph.D. candidate at the Stephen M. Ross School of Business, University of Michigan.
+  I am <strong>Hanqi</strong> (pronounced *Hahn-chee*) </strong>Wen</strong>, a Ph.D. candidate at the Stephen M. Ross School of Business, University of Michigan.
   I am fortunate to be advised by
   <a href="https://michiganross.umich.edu/faculty-research/faculty/izak-duenyas" target="_blank">Professor Izak Duenyas</a>
   and
