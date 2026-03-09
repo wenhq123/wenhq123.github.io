@@ -10,9 +10,8 @@ profile:
   more_info: >
     <p>E-mail: hanqiwen@umich.edu</p>
     <p>
-    <a href="https://www.linkedin.com/in/hanqi-wen-72424811b">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?user=9dmiitsAAAAJ&hl=en">Google Scholar</a> |
-    CV
+    <a href="https://www.linkedin.com/in/hanqi-wen-72424811b">LinkedIn</a> | CV
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
