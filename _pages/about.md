@@ -43,6 +43,10 @@ Welcome!
 </p>
 
 <p>
+  <strong>Research Interests:</strong> Platform operations; e-commerce fulfillment; product development and innovation.
+</p>
+
+<p>
   Before joining Ross, I received a Master’s degree in Management Science from Peking University
   and a Bachelor’s degree in Industrial Engineering from Tsinghua University.
 </p>
