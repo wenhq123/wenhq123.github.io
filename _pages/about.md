@@ -29,7 +29,6 @@ latest_posts:
 ---
 
 <br>
-
 Welcome!
 
 <p>
