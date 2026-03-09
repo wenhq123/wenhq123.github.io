@@ -7,7 +7,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  image_width: 200px
   more_info: >
     <p>E-mail: hanqiwen@umich.edu</p>
     <p>
