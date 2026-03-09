@@ -1,8 +1,8 @@
-Publication:
-  color: "#2ca02c"
+Journal:
+  color: "#d4a017"
 
 Conference:
-  color: "#9467bd"
+  color: "#f1c232"
   
 R&R:
   color: "#66c2a5"
