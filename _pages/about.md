@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate in <a href="https://michiganross.umich.edu/phd/areas-of-study/technology-operations">Technology and Operations</a><br>Stephen M. Ross School of Business, University of Michigan
 profile:
