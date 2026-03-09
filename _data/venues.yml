@@ -1,11 +1,17 @@
-Working Paper:
-  color: "#1f77b4"
-
 Publication:
   color: "#2ca02c"
+
+Conference:
+  color: "#9467bd"
+  
+R&R:
+  color: "#ff7f0e"
+
+Working Paper:
+  color: "#1f77b4"
 
 Work in Progress:
   color: "#6c757d"
 
-Conference:
-  color: "#9467bd"
+
+
