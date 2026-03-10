@@ -6,7 +6,7 @@ nav_title: Teaching
 description: 
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
 <ul class="teaching-experience">
