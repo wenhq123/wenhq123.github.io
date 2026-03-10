@@ -8,8 +8,16 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Experience
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Sole Instructor – University of Michigan**
+  - TO 302: Managing Business Operations (Business Minor Core; Class Size: 67), Fall 2024.
 
-{% include courses.liquid %}
+
+- **Teaching Assistant – University of Michigan**
+  - EMBA 611: Managing the Value Chain (EMBA), Winter 2025–2026.
+  - TO 552: Operations Management (MBA), Winter 2026.
+  - TO 534: Introduction to Operations (Online MBA), Instructional Support Specialist, Summer 2025.
+  - WMBA 623: Applied Analytics for Decision Making (Weekend MBA), Fall 2025.
+  - TO 621: Logistics (Master of Supply Chain Management), Winter 2022–2025.
+
