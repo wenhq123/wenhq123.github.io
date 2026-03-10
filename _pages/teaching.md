@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
-nav_title: Teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 6
