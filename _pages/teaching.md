@@ -10,11 +10,13 @@ calendar: true
 
 ## Teaching Experience
 
-- **Sole Instructor – University of Michigan**
-  - TO 302: Managing Business Operations (Business Minor Core; Class Size: 67), Fall 2024.
+- **Sole Instructor, University of Michigan**
+  - **TO 302: Managing Business Operations** (Business Minor Core; Class Size: 67), Fall 2024.  
+    Topics: Process analysis, Waiting time analysis, Inventory management, Quality management, Project management, Supply chain management, and Revenue management.
 
+ 
 
-- **Teaching Assistant – University of Michigan**
+- **Teaching Assistant, University of Michigan**
   - EMBA 611: Managing the Value Chain (EMBA), Winter 2025–2026.
   - TO 552: Operations Management (MBA), Winter 2026.
   - TO 534: Introduction to Operations (Online MBA), Instructional Support Specialist, Summer 2025.
