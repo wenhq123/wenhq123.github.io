@@ -80,36 +80,41 @@
 .teaching-experience {
   list-style: none;
   padding-left: 0;
+  margin-top: 1rem;
 }
 
 .teaching-block {
   margin-bottom: 2rem;
 
   > strong {
-    display: inline-block;
-    margin-bottom: 0.4rem;
+    display: block;
+    margin-bottom: 0.6rem;
   }
 }
 
 .teaching-sublist {
   list-style-type: circle;
-  padding-left: 1.2rem;
+  padding-left: 1.4rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.8rem;
+
+  li {
+    margin-bottom: 0.6rem;
+    line-height: 1.7;
+  }
 }
 
 .teaching-topics {
   display: block;
   margin-top: 0.35rem;
   color: var(--global-text-color-light);
+  line-height: 1.7;
 }
 
 .teaching-photo {
   display: block;
-  margin: 16px auto;
+  margin: 18px auto;
   width: 600px;
   max-width: 100%;
   border-radius: 10px;
 }
-
-
-
-
