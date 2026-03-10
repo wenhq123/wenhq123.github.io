@@ -1,14 +1,14 @@
 Journal:
-  color: "#f1c232"
+  color: "#4fa3d1"
 
 Conference:
-  color: "#f1e132"
+  color: "#4fc6d1"
   
 Working Paper:
   color: "#66c2a5"
 
 Work in Progress:
-  color: "#4fa3d1"
+  color: "#f1c232"
 
 
 
