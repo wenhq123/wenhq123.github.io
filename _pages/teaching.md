@@ -11,7 +11,7 @@ calendar: true
 <ul class="teaching-experience">
 
   <li class="teaching-block">
-    <strong>Sole Instructor, University of Michigan</strong>
+    <strong>Sole Instructor <span class="teaching-location">📍 University of Michigan</span></strong>
 
     <ul class="teaching-sublist">
       <li>
