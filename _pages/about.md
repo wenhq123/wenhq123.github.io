@@ -48,7 +48,7 @@ Welcome!
 </p>
 
 <p>
-  <strong>Research Interests:</strong> Platform operations; e-commerce fulfillment; product development and innovation; service operatios.
+  <strong>Research Interests:</strong> Platform operations; e-commerce fulfillment; product development and innovation; service operations.
 </p>
 
 <p>
