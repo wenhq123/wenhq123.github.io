@@ -32,7 +32,7 @@ calendar: true
   </li>
 
   <li class="teaching-block">
-    <strong>Teaching Assistant, University of Michigan</strong>
+   <strong>Teaching Assistant <span class="teaching-location">📍 University of Michigan</span></strong>
 
     <ul class="teaching-sublist">
       <li>TO 552: Operations Management (MBA), Winter 2026.</li>
@@ -45,7 +45,7 @@ calendar: true
   </li>
 
   <li class="teaching-block">
-    <strong>Teaching Assistant, Peking University</strong>
+    <strong>Teaching Assistant <span class="teaching-location">📍 Peking University</span></strong>
 
     <ul class="teaching-sublist">
       <li>Academic writing (Master of Engineering Management), Fall 2020.</li>
