@@ -8,6 +8,8 @@ nav_order: 6
 calendar: true
 ---
 
+<ul class="teaching-experience">
+
   <li class="teaching-block">
     <strong>Sole Instructor, University of Michigan</strong>
 
