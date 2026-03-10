@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 
 nav: true
 nav_order: 6
 calendar: true
@@ -14,7 +14,7 @@ calendar: true
   - **TO 302: Managing Business Operations** (Business Minor Core; Class Size: 67), Fall 2024.  
     Topics: Process analysis, Waiting time analysis, Inventory management, Quality management, Project management, Supply chain management, and Revenue management.
 
- 
+  <img src="/assets/img/teaching_photo.jpg" width="420" style="margin-top:10px;border-radius:8px;">
 
 - **Teaching Assistant, University of Michigan**
   - EMBA 611: Managing the Value Chain (EMBA), Winter 2025–2026.
