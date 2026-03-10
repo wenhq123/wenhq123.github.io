@@ -42,4 +42,13 @@ calendar: true
     </ul>
   </li>
 
+  <li class="teaching-block">
+    <strong>Teaching Assistant, Peking University</strong>
+
+    <ul class="teaching-sublist">
+      <li>Modeling and Simulation (Graduate level), Fall 2019.</li>
+      <li>Academic writing (Master of Engineering Management), Fall 2020.</li>
+    </ul>
+  </li>
+
 </ul>
