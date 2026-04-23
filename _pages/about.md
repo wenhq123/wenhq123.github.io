@@ -40,6 +40,7 @@ Welcome!
   <a href="https://jolineuichanco.github.io" target="_blank">Joline Uichanco</a>.
 </p>
 
+<div style="max-width:760px;">
 <p>
   I am broadly interested in operations management problems inspired by real-world observations.
   My research currently centers on two streams:
@@ -63,23 +64,16 @@ Welcome!
   these problems and generate managerial insights.
 </p>
 
-<!--
-<p>
-  I am broadly interested in operations management questions inspired by real-world observations. My recent research explores
-  the pivotal role of <strong>product quality</strong> in shaping operational decision-making across the product lifecycle,
-  from customer feedback-driven innovation in the early stages to e-commerce fulfillment in the later stages.
-  I mainly employ analytical methodologies such as dynamic programming and game theory to address these challenges.
-</p>
 
-<p>
-  <strong>Research Interests:</strong> Platform operations; e-commerce fulfillment; product development and innovation; service operations.
-</p>
--->
+
 
 <p>
   Before joining Ross, I received a Master’s degree in Management Science from Peking University
   and a Bachelor’s degree in Industrial Engineering from Tsinghua University.
 </p>
+
+
+</div>
 
 <br><br>
 
