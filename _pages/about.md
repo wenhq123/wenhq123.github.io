@@ -41,6 +41,30 @@ Welcome!
 </p>
 
 <p>
+  I am broadly interested in operations management problems inspired by real-world observations.
+  My research currently centers on two streams:
+</p>
+
+<ul>
+  <li>
+    <strong>Design of Fast-Iterative Products and Services:</strong>
+    studying how firms design products and services whose performance evolves through feedback,
+    learning, and continuous improvement.
+  </li>
+  <li>
+    <strong>E-commerce Fulfillment Design:</strong>
+    studying how platforms design and manage emerging fulfillment practices under incentive
+    misalignment in e-commerce marketplaces.
+  </li>
+</ul>
+
+<p>
+  I mainly employ analytical methodologies such as dynamic programming and game theory to study
+  these problems and generate managerial insights.
+</p>
+
+<!--
+<p>
   I am broadly interested in operations management questions inspired by real-world observations. My recent research explores
   the pivotal role of <strong>product quality</strong> in shaping operational decision-making across the product lifecycle,
   from customer feedback-driven innovation in the early stages to e-commerce fulfillment in the later stages.
@@ -50,6 +74,7 @@ Welcome!
 <p>
   <strong>Research Interests:</strong> Platform operations; e-commerce fulfillment; product development and innovation; service operations.
 </p>
+-->
 
 <p>
   Before joining Ross, I received a Master’s degree in Management Science from Peking University
