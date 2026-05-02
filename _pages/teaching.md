@@ -40,7 +40,7 @@ calendar: false
       <li>TO 534: Introduction to Operations (Online MBA), Instructional Support Specialist, Summer 2025.</li>
       <li>EMBA 611: Managing the Value Chain (EMBA), Winter 2025–2026.</li>
       <li>MBAN 552: Probability and Statistics (Master of Business Analytics), Fall 2023.</li>
-      <li>TO 621: Logistics (Master of Supply Chain Management), Winter 2022–2025.</li>
+      <li>TO 621: Logistics (Master of Supply Chain Management), Winter 2022–2026.</li>
     </ul>
   </li>
 
