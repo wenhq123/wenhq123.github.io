@@ -72,6 +72,7 @@ Welcome!
   and a Bachelor’s degree in Industrial Engineering from Tsinghua University.
 </p>
 
+<strong>I am on the 2026–2027 academic job market.</strong>
 
 </div>
 
