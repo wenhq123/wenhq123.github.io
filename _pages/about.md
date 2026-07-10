@@ -50,12 +50,12 @@ Welcome!
   <li>
     <strong>Design of Fast-Iterative Products and Services:</strong>
     studying how firms design products and services whose performance evolves through feedback,
-    learning, and continuous improvement.
+    learning, and continuous improvement. Examples include agile product development and AI model iteration.
   </li>
   <li>
-    <strong>E-commerce Fulfillment Design:</strong>
+    <strong>E-commerce Platform and Fulfillment Design:</strong>
     studying how platforms design and manage emerging fulfillment practices under incentive
-    misalignment in e-commerce marketplaces.
+    misalignment in e-commerce marketplaces. Examples include inventory commingling and fulfillment regionalization.
   </li>
 </ul>
 
