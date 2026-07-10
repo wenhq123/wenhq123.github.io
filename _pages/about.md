@@ -73,9 +73,9 @@ Welcome!
 </p>
 
 <p style="
-  display: inline-block;
-  margin-top: 8px;
-  padding: 10px 16px;
+  display: block;
+  margin-top: 12px;
+  padding: 12px 16px;
   font-weight: 700;
   color: var(--global-text-color);
   background-color: #eef7f6;
