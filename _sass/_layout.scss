@@ -41,6 +41,17 @@ body.sticky-bottom-footer {
   }
 }
 
+.job-market-note {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 10px 16px;
+  font-weight: 700;
+  color: var(--global-text-color);
+  background-color: #eef7f6;
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 3px;
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
