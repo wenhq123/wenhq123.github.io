@@ -87,6 +87,7 @@ Welcome!
   border-radius: 3px;
 ">
   I am on the 2026–2027 academic job market.
+  <a href="/assets/pdf/CV_hanqi_202607.pdf" target="_blank">[CV]</a>
 </p>
 
 
