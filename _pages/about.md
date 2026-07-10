@@ -43,7 +43,7 @@ Welcome!
 <div style="max-width:760px;">
 <p>
   I am broadly interested in operations management problems inspired by real-world observations.
-  My research currently centers on two streams:
+  My research currently centers on the following streams:
 </p>
 
 <ul>
