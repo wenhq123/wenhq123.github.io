@@ -78,12 +78,18 @@ Welcome!
   padding: 10px 16px;
   font-weight: 700;
   color: var(--global-text-color);
-  background-color: #eef7f6;
+  background-color: color-mix(
+    in srgb,
+    var(--global-theme-color) 9%,
+    var(--global-bg-color)
+  );
   border-left: 4px solid var(--global-theme-color);
   border-radius: 3px;
 ">
   I am on the 2026–2027 academic job market.
 </p>
+
+
 
 </div>
 
