@@ -16,4 +16,5 @@ nav_order: 2
 <div class="publications">
   {% bibliography --query @unpublished %}
   {% bibliography --query @article %}
+  {% bibliography --query @inproceedings %}
 </div>
