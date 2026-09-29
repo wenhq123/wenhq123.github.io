@@ -190,13 +190,18 @@
     <!-- Links/Buttons -->
     <div class="links">
     {% if entry.jobmarket %}
-    <span
+  <a
     class="btn btn-sm z-depth-0"
-    style="background-color: var(--global-theme-color); color: white; cursor: default;"
-    >
+    style="
+      background-color: var(--global-theme-color);
+      color: white;
+      pointer-events: none;
+      cursor: default;
+    "
+  >
     Job Market Paper
-   </span>
-   {% endif %}
+  </a>
+{% endif %}
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
