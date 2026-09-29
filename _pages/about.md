@@ -91,12 +91,15 @@ Welcome!
 </p>
 
 <p style="
-  margin-top: 6px;
-  margin-bottom: 18px;
+  margin-top: 18px;
+  margin-bottom: 10px;
 ">
   <strong>INFORMS 2026:</strong>
-  I will present my job market paper on Monday, November 2, 11:00–11:18 AM
-  in Moscone South 205 (Level 2), as part of the Job Market Showcase session
+  I will present my job market paper on
+  <strong>Monday, November 2, 11:00–11:18 AM</strong>
+  in
+  <strong>Moscone South 205 (Level 2)</strong>,
+  during the Job Market Showcase session
   <em>Platform Design and Marketplace Competition</em>.
 </p>
 
