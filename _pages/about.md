@@ -90,19 +90,33 @@ Welcome!
   <a href="/assets/pdf/CV_hanqi_20260721.pdf" target="_blank">[CV]</a>
 </p>
 
-<p style="
-  margin-top: 18px;
-  margin-bottom: 10px;
+<div style="
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 22px;
+  margin-bottom: 20px;
+  max-width: 1050px;
 ">
-  <strong>INFORMS 2026:</strong>
-  I will present my job market paper on
-  <strong>Monday, November 2, 11:00–11:18 AM</strong>
-  in
-  <strong>Moscone South 205 (Level 2)</strong>,
-  during the Job Market Showcase session
-  <em>Platform Design and Marketplace Competition</em>.
-</p>
+  <i
+    class="fa-solid fa-bullhorn"
+    style="
+      color: var(--global-theme-color);
+      margin-top: 6px;
+      flex-shrink: 0;
+    "
+  ></i>
 
+  <div>
+    <strong>INFORMS 2026:</strong>
+    I will present my job market paper on
+    <strong>Monday, November 2, 11:00–11:18 AM</strong>
+    in
+    <strong>Moscone South 205 (Level 2)</strong>,
+    during the Job Market Showcase session
+    <em>Platform Design and Marketplace Competition</em>.
+  </div>
+</div>
 
 </div>
 
