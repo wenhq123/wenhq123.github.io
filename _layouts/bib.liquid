@@ -192,11 +192,11 @@
     {% if entry.jobmarket %}
     <span
     class="btn btn-sm z-depth-0"
-    style="border: 1px solid var(--global-theme-color); color: var(--global-theme-color); background: transparent; cursor: default;"
+    style="background-color: var(--global-theme-color); color: white; cursor: default;"
     >
     Job Market Paper
-    </span>
-    {% endif %}
+   </span>
+   {% endif %}
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
