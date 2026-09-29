@@ -90,6 +90,15 @@ Welcome!
   <a href="/assets/pdf/CV_hanqi_20260721.pdf" target="_blank">[CV]</a>
 </p>
 
+<p style="
+  margin-top: 6px;
+  margin-bottom: 18px;
+">
+  <strong>INFORMS 2026:</strong>
+  I will present my job market paper on Monday, November 2, 11:00–11:18 AM
+  in Moscone South 205 (Level 2), as part of the Job Market Showcase session
+  <em>Platform Design and Marketplace Competition</em>.
+</p>
 
 
 </div>
