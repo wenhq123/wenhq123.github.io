@@ -98,14 +98,23 @@ Welcome!
   margin-bottom: 20px;
   max-width: 1050px;
 ">
-  <i
-    class="fa-solid fa-bullhorn"
+
+  <svg
+    viewBox="0 0 24 24"
+    width="24"
+    height="24"
+    aria-hidden="true"
     style="
       color: var(--global-theme-color);
-      margin-top: 6px;
+      margin-top: 5px;
       flex-shrink: 0;
     "
-  ></i>
+  >
+    <path
+      fill="currentColor"
+      d="M3 10.5v3A2.5 2.5 0 0 0 5.5 16H7l1.6 4h2.2l-1.6-4H11l8 3V5l-8 3H5.5A2.5 2.5 0 0 0 3 10.5Zm8-.5 6-2.25v8.5L11 14V10ZM5.5 10H9v4H5.5A.5.5 0 0 1 5 13.5v-3a.5.5 0 0 1 .5-.5Z"
+    />
+  </svg>
 
   <div>
     <strong>INFORMS 2026:</strong>
@@ -116,6 +125,7 @@ Welcome!
     during the Job Market Showcase session
     <em>Platform Design and Marketplace Competition</em>.
   </div>
+
 </div>
 
 </div>
