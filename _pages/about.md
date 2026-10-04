@@ -41,29 +41,43 @@ Welcome!
 </p>
 
 <div style="max-width:760px;">
+
 <p>
-  I am broadly interested in operations management problems inspired by real-world observations.
-  My research currently centers on the following streams:
+  I study how emerging business practices and rapidly evolving technologies
+  create new operational trade-offs for firms and platforms, and how
+  organizations should adapt their decisions in response. My research is
+  motivated by real-world observations and currently centers on the following
+  research streams:
 </p>
 
 <ul>
   <li>
-    <strong>Design of Fast-Iterative Products and Services:</strong>
-    studying how firms design products and services whose performance evolves through feedback,
-    learning, and continuous improvement. Examples include agile product development and AI model iteration.
+    <strong>E-commerce Fulfillment and Third-Party Marketplace Design:</strong>
+    studying how emerging fulfillment practices reshape platform decisions when
+    independent sellers retain control over key implementation decisions.
+    Examples include inventory commingling and fulfillment regionalization.
   </li>
+
   <li>
-    <strong>E-commerce Platform and Fulfillment Design:</strong>
-    studying how platforms design and manage emerging fulfillment practices under incentive
-    misalignment in e-commerce marketplaces. Examples include inventory commingling and fulfillment regionalization.
+    <strong>Design of Fast-Iterative Products and Services:</strong>
+    studying how firms should manage products and services whose performance
+    continues to evolve after launch. Examples include agile product development
+    and AI model iteration.
+  </li>
+
+  <li>
+    <strong>AI Infrastructure Operations:</strong>
+    studying how infrastructure providers should adapt capacity, reliability,
+    and service design as AI demand continues to grow.
   </li>
 </ul>
 
 <p>
-  I mainly employ analytical methodologies such as dynamic programming and game theory to study
-  these problems and generate managerial insights.
+  Across these projects, I begin with operational changes observed in practice
+  and use analytical methods—including dynamic programming, game theory, and
+  optimization—to uncover the underlying mechanisms and generate both
+  generalizable insights and actionable guidance.
 </p>
-
 
 
 
