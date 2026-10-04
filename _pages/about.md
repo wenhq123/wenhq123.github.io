@@ -46,8 +46,7 @@ Welcome!
   I study how emerging business practices and rapidly evolving technologies
   create new operational trade-offs for firms and platforms, and how
   organizations should adapt their decisions in response. My research is
-  motivated by real-world observations and currently centers on the following
-  research streams:
+  motivated by real-world observations and currently centers on the following streams:
 </p>
 
 <ul>
@@ -137,7 +136,7 @@ Welcome!
     in
     <strong>Moscone South 205 (Level 2)</strong>,
     during the Job Market Showcase session <strong>MB27</strong>:
-    <em>Platform Design and Marketplace Competition</em>.
+    Platform Design and Marketplace Competition.
   </div>
 
 </div>
