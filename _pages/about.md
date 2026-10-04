@@ -61,8 +61,8 @@ Welcome!
   <li>
     <strong>Design of Fast-Iterative Products and Services:</strong>
     studying how firms should manage products and services whose performance
-    continues to evolve after launch. Examples include agile product development
-    and AI model iteration.
+    continues to evolve after launch, requiring development and deployment
+    decisions to adapt over time. Examples include software products and AI services.
   </li>
 
   <li>
@@ -136,7 +136,7 @@ Welcome!
     <strong>Monday, November 2, 11:00–11:18 AM</strong>
     in
     <strong>Moscone South 205 (Level 2)</strong>,
-    during the Job Market Showcase session
+    during the Job Market Showcase session <strong>MB27</strong>:
     <em>Platform Design and Marketplace Competition</em>.
   </div>
 
