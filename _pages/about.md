@@ -75,7 +75,7 @@ Welcome!
 <p>
   More recently, I have also been exploring
   <strong>AI Infrastructure Operations</strong>,
-  studying how infrastructure providers can adapt their service and operations design to better support growing AI computing demands.
+  studying how infrastructure providers can adapt their operations and service design to better support growing AI computing demands.
 </p>
 
 
