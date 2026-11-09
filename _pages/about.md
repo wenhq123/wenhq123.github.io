@@ -42,37 +42,45 @@ Welcome!
 
 <div style="max-width:760px;">
 
-<p>
+<!-- <p>
   I study how emerging business practices and rapidly evolving technologies
   create new operational trade-offs for firms and platforms, and how
   organizations should adapt their decisions in response. My research is
   motivated by real-world observations and currently centers on the following streams:
+</p> -->
+
+<p>
+  My research focuses on the <strong>operational challenges of innovation</strong>,
+  spanning innovations in business practices and products.
+  My work has centered on two main areas:
 </p>
 
 <ul>
   <li>
-    <strong>E-commerce Fulfillment and Third-Party Marketplace Design:</strong>
-    studying how emerging fulfillment practices reshape platform decisions when
-    independent sellers retain control over key implementation decisions.
+    <strong>Innovations in E-commerce Fulfillment:</strong>
+    studying how innovative fulfillment practices reshape platform decisions when
+    independent <em>third-party sellers</em> retain control over key implementation decisions.
     Examples include inventory commingling and fulfillment regionalization.
   </li>
 
   <li>
-    <strong>Design of Fast-Iterative Products and Services:</strong>
-    studying how firms should manage products and services whose performance
+    <strong>Product Development and Innovation:</strong>
+    studying how firms should manage <em>fast-iterative</em> products and services whose performance
     continues to evolve after launch, requiring development and deployment
     decisions to adapt over time. Examples include software products and AI services.
   </li>
 
-  <li>
-    <strong>AI Infrastructure Operations:</strong>
-    studying how infrastructure providers should adapt capacity, reliability,
-    and service design as AI demand continues to grow.
-  </li>
 </ul>
 
 <p>
-  Across these projects, I begin with operational changes observed in practice
+  More recently, I have also been exploring
+  <strong>AI Infrastructure Operations</strong>,
+  studying how infrastructure providers can adapt their service and operations design to better support growing AI computing demands.
+</p>
+
+
+<p>
+  Across these projects, I begin with phenomena observed in practice
   and use analytical methods—including dynamic programming, game theory, and
   optimization—to uncover the underlying mechanisms and generate both
   generalizable insights and actionable guidance.
