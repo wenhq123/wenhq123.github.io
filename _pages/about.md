@@ -59,13 +59,13 @@ Welcome!
   <li>
     <strong>Innovations in E-commerce Fulfillment:</strong>
     studying how innovative fulfillment practices reshape platform decisions when
-    independent <em>third-party sellers</em> retain control over key implementation decisions.
+    independent third-party sellers retain control over key implementation decisions.
     Examples include inventory commingling and fulfillment regionalization.
   </li>
 
   <li>
     <strong>Product Development and Innovation:</strong>
-    studying how firms should manage <em>fast-iterative</em> products and services whose performance
+    studying how firms should manage fast-iterative products whose performance
     continues to evolve after launch, requiring development and deployment
     decisions to adapt over time. Examples include software products and AI services.
   </li>
