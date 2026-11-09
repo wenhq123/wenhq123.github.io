@@ -103,7 +103,7 @@ Welcome!
   <a href="/assets/pdf/CV_hanqi.pdf" target="_blank">[CV]</a>
 </p>
 
-<div style="
+<!-- <div style="
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -137,7 +137,7 @@ Welcome!
     <strong>Moscone South 205 (Level 2)</strong>,
     during the Job Market Showcase session <strong>MB27</strong>:
     Platform Design and Marketplace Competition.
-  </div>
+  </div> -->
 
 </div>
 
